@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="190509" started-at="2015-12-22T21:39:02Z" finished-at="2015-12-22T21:42:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="190509" started-at="2015-12-22T21:39:02Z" finished-at="2015-12-22T21:42:12Z">
+      <class name="eCommerceWebsite.tests.Tests">
+        <test-method status="PASS" signature="init()[pri:0, instance:eCommerceWebsite.tests.Tests@5c96b]" name="init" is-config="true" duration-ms="48740" started-at="2015-12-22T16:39:02Z" finished-at="2015-12-22T16:39:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="verifyProductCost()[pri:0, instance:eCommerceWebsite.tests.Tests@5c96b]" name="verifyProductCost" duration-ms="140973" started-at="2015-12-22T16:39:51Z" finished-at="2015-12-22T16:42:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductCost -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:eCommerceWebsite.tests.Tests@5c96b]" name="exit" is-config="true" duration-ms="764" started-at="2015-12-22T16:42:12Z" finished-at="2015-12-22T16:42:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- eCommerceWebsite.tests.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
